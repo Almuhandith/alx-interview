@@ -1,4 +1,6 @@
-me Algorithm Python """
+#!/usr/bin/python3
+
+""" Prime Game Algorithm Python """
 
 
 def is_prime(n):
